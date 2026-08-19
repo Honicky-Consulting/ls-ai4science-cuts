@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latent Space AI4Science — Cuts</title>
+    <link>https://honicky-consulting.github.io/ls-ai4science-cuts/</link>
+    <description>Private feed of internal-review cuts (V + P1 edits) for the Latent Space AI4Science podcast. For host review only.</description>
+    <language>en-us</language>
+    <copyright>© Latent Space Network</copyright>
+    <itunes:author>RJ Honicky &amp; Brandon Anderson</itunes:author>
+    <itunes:summary>Internal-review cuts for the AI4Science podcast (V + P1 edits, before public release).</itunes:summary>
+    <itunes:owner>
+      <itunes:name>RJ Honicky</itunes:name>
+      <itunes:email>rj@honicky.ai</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Science">
+      <itunes:category text="Life Sciences"/>
+    </itunes:category>
+    <itunes:image href="https://honicky-consulting.github.io/ls-ai4science-cuts/cover.png"/>
+    <atom:link href="https://honicky-consulting.github.io/ls-ai4science-cuts/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Radical Numerics — Eric Nguyen (V+P1 cut)</title>
+      <description>Radical Numerics episode with Eric Nguyen. V-cuts (pre-roll mic check, mid-episode camera bump + laptop swap, post-outro retake) and P1-cuts (bathroom break, blog-post navigation stumbles) removed. Retake intro spliced to front. 1h40m.</description>
+      <itunes:author>RJ Honicky &amp; Brandon Anderson</itunes:author>
+      <itunes:summary>Radical Numerics episode with Eric Nguyen. V+P1 cuts applied. 1h40m.</itunes:summary>
+      <itunes:duration>01:40:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">ls-ai4science-cuts-ep001-radical-numerics</guid>
+      <pubDate>Tue, 19 Aug 2026 04:30:00 +0000</pubDate>
+      <enclosure url="https://github.com/Honicky-Consulting/ls-ai4science-cuts/releases/download/ep-001-radical-numerics/radical-numerics_v_and_p1_full.mp3"
+                 length="144840429"
+                 type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
